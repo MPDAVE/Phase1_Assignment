@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Lenovo V15 Intel Core i3 12th Gen 15.6' (39.62 cm) FHD (1920x1080) Antiglare 250 Nits Thin and Light Laptop (8GB RAM/512GB SSD/Windows 11 Home/Iron Grey/1Y Onsite + 1Y ADP Add On/1.7 kg), 82TTA00VIH",
+        "description": "Processor: 12th Gen Intel Core I3-1215U G3 processor | 6 Cores | 8 Threads | Speed Upto 4.4 Ghz | 10 Mb Cache |\nMemory: 8GB DDR4 3200 MHz, dual-channel capable upgradable upto 16GB | \nStorage: 512GB SSD M.2\nOperating System: Preloaded Windows 11 Home SL with Lifetime Validity \nDisplay: 15.6' screen with (1920x1080) FHD Antiglare, 250 Nits display | \nGraphics: Intel UHD Graphics comes with DirectX 12.1 enables amazing graphics | \nMonitor Supports: Supports up to 3 independent displays \nPorts: 1x USB 2.0 | 1x USB 3.2 Gen 1 | 1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery 3.0 and DisplayPort 1.2) | 1x HDMI 1.4b | 1x Ethernet RJ-45 (LAN Port) | 1x Headphone / microphone combo jack (3.5mm) | 1x Power Connector \nKeyboard: 6-row, spill-resistant, SMB Service Hot key, numeric keypad | \nTouchpad: Buttonless Mylar surface multi-touch touchpad, supports Precision TouchPad",
+        "image":"images/Lenovo.jpg",
+        "price":40990
+    },
+
+    {
+        "id": 2,
+        "name": "HP Laptop 15s, AMD Ryzen 5 5500U, 15.6-inch (39.6 cm), FHD, 8GB DDR4, 512GB SSD, AMD Radeon Graphics, Thin & Light, Dual Speakers (Win 11, MSO 2019, Silver, 1.69 kg), eq2144AU",
+        "description": "【6-core AMD Ryzen 5 5500U】12 threads and 8MB L3 cache deliver powerful performance and swift responsiveness. The AMD Radeon graphics help you experience crisp visuals with vivid clarity.\n【Upgraded memory and storage】8GB DDR4 RAM integrates a higher-bandwidth memory for smooth functioning. The high-speed 512GB PCIe NVMe M.2 SSD creates more room to work with ample of storage.\n【Micro-edge display】The 15.6-inch, FHD, 250-nit, anti-glare, and micro-edge display is engineered for high-quality viewing with stunning clarity.\n【Effortless connectivity】Wi-Fi 5 (1x1) and Bluetooth 4.2 ensure an uninterrupted and seamless experience. Enjoy effortless connectivity with 1 x USB Type-C, 2 x USB Type-A, and 1 x HDMI 1.4b ports.\n【Long battery life】Fast charge your battery from 0% to 50% in 45 mins. The durable 41Wh battery enables you to maximize productivity and work through tasks without interruption.\n【Business conferencing】HP True Vision 720p HD camera with integrated dual array mics, and dual speakers deliver a high-resolution,crystal-clear collaboration experience.\n【Why HP】Experience the unparalleled advantages of choosing HP, the most preferred and trusted PC brand by Indians, which empowers you with cutting-edge technology and steadfast dependability.",
+        "image":"images/HP.jpg",
+        "price":35000
+    },
+
+    {
+        "id": 3,
+        "name": "Dell G15 5520 Gaming Laptop, Intel i5-12500H,16GB DDR5,512GB SSD,NVIDIA RTX 3050 (4GB GDDR6),15.6' (39.62cm) FHD WVA AG 120Hz 250 nits, Backlit KB Orange, Win 11 + MSO'21,Dark Shadow Grey,2.81kg",
+        "description": "Processor : 12th Gen Intel Core i5-12500H | Up to 4.50 Ghz | 12 cores | 16 Threads | 18 MB Cache | 45 W TDP // \nMemory : 16 GB, 2 x 8 GB, DDR5, 4800 MHz // \nStorage :  512 GB SSD\nDisplay: 15.6' FHD 1920 x 1080 WVA, Non-Touch, Anti-Glare| 120 Hz ( 9ms ) | 250 nits | 45% NTSC\nGraphics: NVIDIA GeForce RTX 3050 4 GB GDDR6 with max 90 W TGPCooling: Alienware-inspired thermal design features optimal cooling thanks to dual air-intake, copper pipes , two fans with ultra-thin blades and four strategically-placed vents. As a result, you can expect your system to stay cool when the action heats up enabling  100/100 CPU GPU concurrency and TDP up to 125 W (45W + 80 W)\nKeyboard and Battery: US English Orange Qwerty Backlit Keyboard with Numeric Keypad and G-Key |3 Cell, 56 Wh, \nintegratedSoftware: Pre-Loaded Windows 11 Home with Lifetime Validity | MS Office Home and Student 2021 with lifetime validity| McAfee Multi Device Security 15-month subscriptionWarranty: 1Yr In-Home Hardware Service",
+        "image":"images/Dell.jpg",
+        "price":69900
+    },
+
+    {
+        "id": 4,
+        "name": "ASUS Vivobook 14X OLED, Intel Core i9-13900H 13th Gen, 14' (35.56 cm) 2.8K 90Hz OLED, Creator Laptop (16 GB RAM/1TB SSD/4GB RTX 3050/Win11//Backlit KB/Fingerprint/Black/1.45 kg), K3405VCB-KM951WS",
+        "description": "Create faster Vivobook 14X OLED has the power to turn your ideas into creations faster than ever, thanks to its super-powerful upto 13th Gen Intel Core H Series processor. Your powerful creative companion Vivobook 14X OLED has everything a creator needs, including a top-notch NVIDIA GeForce RTX GPU. Whether you’re just starting out on your creative journey, or need to tackle pro-level rendering or livestreaming, you’ll nail it thanks to the advanced GPU features like ray tracing, AI acceleration and speedy GDDR6 memory. And for maximum performance and stability. Stay Cool To keep your laptop cool in all situations, the ASUS IceCool thermal technology in Vivobook 14X OLED uses upgraded 8 mm and 6 mm heat pipes, and an IceBlade fan that efficiently accelerates heat transfer. The 89-blade fan and impeller are made of a liquid-crystal polymer that means they’re lighter and thinner than ordinary fans. In addition, the IceBlade fan also use a fluid-dynamics bearing that’s quieter and has less vibration than an ary bearing. The end result is that the Intel Core CPU and NVIDIA GPU can run comfortably at up to a blistering 55 W combined TDP 1 in Performance mode — with no throttling!",
+        "image":"images/Asus.jpg",
+        "price":109990
+    },
+
+    {
+        "id": 5,
+        "name": "Acer Aspire Lite 11th Gen Intel Core i3 Premium Metal Laptop (8GB RAM/256GB SSD/Windows 11 Home) AL15-51, 39.62cm (15.6') Full HD Display, Metal Body, Steel Gray, 1.59 Kg",
+        "description": "Powerful Productivity: 11th Generation Intel Core i3-1115G4 Dual Core processor delivers unmatched speed and intelligence, enabling impressive creating, productivity, and gaming experiences. With Turbo Boost Technology, get up to 4.1GHz for your high-demand applications.\nConnectivity Technology: Wi-Fi, Bluetooth, HDMI \nVisibly Stunning: Experience sharp details and crisp colors on the 15.6' Full HD display, 16:9 aspect ratio, ultra-slim design and narrow bezels. \nInternal Specifications: RAM - 8 GB of Dual-channel DDR4, 2 SODIMM sockets; \nStorage - 256 GB SSD NVMe solid-state drive storage (expandable up to 1TB) to store your files and media \nPorts: one Type-C port, two USB 2.0 Type-A port, and one USB 3.2 Type-A port. \nKeyboard: 100-/101-/104-key keyboard with independent numeric keypad, international language support \nOperating System : Windows 11 Home, \nGraphic : Intel UHD Graphics, Premium Metal sleek body on both A & D Cover for lightweight experience \nReversible Read Mode : Now find reversible read mode by pressing CTRL+R and show your laptop screen to your friends, teachers or colleagues",
+        "image":"images/Acer.jpg",
+        "price":26990
+    }
+    
+]
